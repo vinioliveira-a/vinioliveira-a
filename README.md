@@ -3,6 +3,12 @@
 Prazer, me chamo Vinicius.  
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou dando meus primeiros passos no mundo da programação. aprendendo a cada dia e me dedicando com foco em evoluir como desenvolvedor Full Stack e construir soluções reais com código.
 
+## 📜 Certificações
+
+**HTML – DevMedia**  
+📅 Janeiro de 2026  
+🔗 [Ver certificado](https://www.devmedia.com.br/certificado/tecnologia/html/vinicius-oliveira-41)
+
 ## 🛠️ Tecnologias e ferramentas que utilizo e estou estudando
 
 <div style="display: inline_block"><br>
